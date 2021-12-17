@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @zyx0527
-- 👀 I’m interested in algorithm, Software development
+- 👀 I’m interested in algorithm, Software development,
+Game production
 - 🌱 I’m currently learning algorithm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
